@@ -3,7 +3,7 @@ public class SecondProgram {
     public static void main(String[] args) {
         System.out.println("Привет, мир!");
 
-        long summa = calculate(6,12);
+        long summa = calculate(4,12);
         System.out.println(summa);
         }
 
