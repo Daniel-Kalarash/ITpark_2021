@@ -25,7 +25,7 @@ public class KvadratishPractish {
                     } else {
                         double x1 = (-b + Math.sqrt(discrim)) / (2 * a);
                         double x2 = (-b - Math.sqrt(discrim)) / (2 * a);
-                        System.out.println("X1=" + x1 + ", X2=" + x2);
+                        System.out.println("X1=" + x1 + ",  X2=" + x2);
                     }
 
                 }
