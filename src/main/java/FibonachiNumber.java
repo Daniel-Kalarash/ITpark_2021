@@ -15,7 +15,5 @@ public class FibonachiNumber {
             b = c;
         }
          System.out.println( n + "-е число Фибоначчи = " + b);
-
     }
-
 }
