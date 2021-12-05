@@ -1,13 +1,17 @@
 package HomeWork7;
 
-public class Dog {
+public class Dog extends SomeAnimals {
 
     String name;
     int dist;
     public int run;
     public int swim;
 
-    public Dog(String name) {
+    public Dog(String бобик) {
+
+    }
+
+    public void Dog(String name) {
         this.name = name;
     }
     public void run(int run) {

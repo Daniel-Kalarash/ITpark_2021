@@ -1,12 +1,16 @@
 package HomeWork7;
 
-public class Tiger {
+public class Tiger extends SomeAnimals {
     String name = "тигр";
     int dist;
     public int run;
     public int swim;
 
-    public Tiger(String name) {
+    public Tiger(String тигр) {
+
+    }
+
+    public void Tiger(String name) {
         this.name = name;
     }
     public void run(int run) {

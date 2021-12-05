@@ -25,6 +25,14 @@ public class SomeAnimals {
         Tiger Tiger = new Tiger("Тигр");
         Tiger.run = 700;
         Tiger.swim = 150;
+    }
 
+    public void dog() {
+            }
+
+    public void cat() {
+    }
+    public void Tiger() {
     }
 }
+
